@@ -2,3 +2,4 @@
 st
 patches/
 config.h
+*.orig
